@@ -2,3 +2,20 @@ https://www.youtube.com/watch?v=U5G_rT-GwPE
 update latest headers packages for kernel module
 sudo apt-get update && sudo apt-get install linux-headers-generic
 https://askubuntu.com/questions/320288/what-is-the-linux-kernel-devel-equivalent-in-12-04-2-lts-3-5-0
+
+
+Kernel Module-linux
+https://www.youtube.com/watch?v=U5G_rT-GwPE
+
+https://www.youtube.com/watch?v=YMEzt9SGqPU
+https://www.youtube.com/watch?v=ax0O-hdjhz4
+
+https://www.youtube.com/watch?v=xlRtHS0eC6g
+BBB
+https://www.youtube.com/watch?v=c_tIzJF8oBw
+https://www.youtube.com/watch?v=c_tIzJF8oBw
+
+https://www.youtube.com/watch?v=qdst4h5jRbg
+
+cross compile
+https://www.youtube.com/watch?v=Pbt330zuNPc
