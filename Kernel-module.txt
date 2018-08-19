@@ -2,6 +2,8 @@ https://www.youtube.com/watch?v=U5G_rT-GwPE
 update latest headers packages for kernel module
 sudo apt-get update && sudo apt-get install linux-headers-generic
 https://askubuntu.com/questions/320288/what-is-the-linux-kernel-devel-equivalent-in-12-04-2-lts-3-5-0
+kernel space and user spcace read write access artical
+https://www.ibm.com/developerworks/linux/library/l-kernel-memory-access/index.html
 
 
 Kernel Module-linux
