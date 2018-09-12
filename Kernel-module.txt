@@ -21,3 +21,10 @@ https://www.youtube.com/watch?v=qdst4h5jRbg
 
 cross compile
 https://www.youtube.com/watch?v=Pbt330zuNPc
+kernel module
+https://www.youtube.com/watch?v=okKRw2TdV00
+https://www.linuxquestions.org/questions/programming-9/copy_from_user-working-but-copy_to_user-not-working-947176/
+https://www.linuxquestions.org/questions/linux-kernel-70/writing-a-char-driver-sending-from-user-space-works-copy_to_user-always-0-a-4175465210/
+proc file in kernel
+https://www.youtube.com/watch?v=1gjW5krYpEU
+https://www.youtube.com/watch?v=1Y3Ot5xFZDA&list=PL2TXDotVKyDBEfWSKcePqRRCp9EehqDGF
